@@ -24,6 +24,17 @@ p {
 // Emphasis & misc
 // -------------------------
 
+em {
+  font-style: normal;
+  font-weight: bold;
+}
+
+strong {
+  font-style: normal;
+  font-weight: bold;
+  text-decoration: underline;
+}
+
 // Ex: 14px base font * 85% = about 12px
 small,
 .small  { font-size: 85%; }
@@ -123,8 +134,19 @@ h6, .h6 { font-size: @font-size-h6; }
 
 .page-header {
   padding-bottom: ((@line-height-computed / 2) - 1);
-  margin: (@line-height-computed * 2) 0 @line-height-computed;
+  margin: @line-height-computed 0 @line-height-computed;
   border-bottom: 1px solid @page-header-border-color;
+}
+
+
+
+// Page footer
+// -------------------------
+
+.page-footer {
+  padding-top: ((@line-height-computed / 2) - 1);
+  margin: (@line-height-computed * 2) 0 @line-height-computed;
+  border-top: 1px solid @page-footer-border-color;
 }
 
 
@@ -217,7 +239,6 @@ blockquote {
   margin: 0 0 @line-height-computed;
   border-left: 5px solid @blockquote-border-color;
   p {
-    font-size: (@font-size-base * 1.25);
     font-weight: 300;
     line-height: 1.25;
   }

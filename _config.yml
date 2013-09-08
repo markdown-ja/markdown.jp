@@ -1,5 +1,5 @@
 # Dependencies
-markdown:         rdiscount
+markdown:         kramdown
 pygments:         true
 
 # Permalinks
@@ -7,19 +7,10 @@ permalink:        pretty
 
 # Server
 destination:      ./_gh_pages
-exclude:          [".editorconfig", ".gitignore", ".ruby-version", "bower.json", "composer.json", "CONTRIBUTING.md", "CNAME", "LICENSE", "Gruntfile.js", "package.json", "node_modules", "README.md", "less"]
-port:             9001
+exclude:          [".editorconfig", ".gitignore", ".ruby-version", "bower.json", "composer.json", "CNAME", "Gruntfile.js", "LICENSE", "package.json", "node_modules", "README.md", "less"]
+port:             9090
 
-# Custom vars
-current_version:  3.0.0
-repo:             https://github.com/twbs/bootstrap
-
-download_source:  https://github.com/twbs/bootstrap/archive/v3.0.0.zip
-download_dist:    https://github.com/twbs/bootstrap/releases/download/v3.0.0/bootstrap-3.0.0-dist.zip
-
-blog:             http://blog.getbootstrap.com
-expo:             http://expo.getbootstrap.com
-
-cdn_css:          //netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap.min.css
-cdn_theme_css:    //netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap-theme.min.css
-cdn_js:           //netdna.bootstrapcdn.com/bootstrap/3.0.0/js/bootstrap.min.js
+# Custom vars - markdown.jp
+name:             日本語Markdownユーザー会
+googlegroup_link: https://groups.google.com/d/forum/markdown-ja
+trello_link:      https://trello.com/b/74KojBBd/markdown-markdown-ja

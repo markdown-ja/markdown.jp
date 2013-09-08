@@ -399,6 +399,17 @@ p {
   }
 }
 
+em {
+  font-style: normal;
+  font-weight: bold;
+}
+
+strong {
+  font-style: normal;
+  font-weight: bold;
+  text-decoration: underline;
+}
+
 small,
 .small {
   font-size: 85%;
@@ -557,8 +568,14 @@ h6,
 
 .page-header {
   padding-bottom: 9px;
-  margin: 40px 0 20px;
+  margin: 20px 0 20px;
   border-bottom: 1px solid #eeeeee;
+}
+
+.page-footer {
+  padding-top: 9px;
+  margin: 40px 0 20px;
+  border-top: 1px solid #eeeeee;
 }
 
 ul,
@@ -656,7 +673,6 @@ blockquote {
 }
 
 blockquote p {
-  font-size: 17.5px;
   font-weight: 300;
   line-height: 1.25;
 }
@@ -6929,3 +6945,18 @@ td.visible-print {
     display: none !important;
   }
 }
+
+body {
+  /* padding-top: 70px; if .navbar-fixed-top */
+
+}
+
+.sidenav-heading {
+  font-size: 16.8px;
+}
+
+/*
+  .sidenav-fixed {
+    position: fixed;
+  }
+*/

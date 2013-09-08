@@ -1,16 +1,27 @@
 ---
 layout: home
-title: Bootstrap
+title: 日本語Markdownユーザー会
+desc: "日本語Markdownユーザーのコミュニティ"
 base_url: "./"
 ---
 
-<main class="bs-masthead" id="content" role="main">
-  <div class="container">
-    <h1>Bootstrap</h1>
-    <p class="lead">Sleek, intuitive, and powerful mobile first front-end framework for faster and easier web development.</p>
-    <p>
-      <a href="{{ site.download_dist }}" class="btn btn-outline-inverse btn-lg" onclick="_gaq.push(['_trackEvent', 'Jumbotron actions', 'Download', 'Download {{ site.current_version }}']);">Download Bootstrap</a>
-      <a href="{{ site.download_source }}" class="btn btn-outline-inverse btn-lg" onclick="_gaq.push(['_trackEvent', 'Jumbotron actions', 'Download', 'Download {{ site.current_version source }}']);">Download source</a>
-    </p>
-  </div>
-</main>
+<div class="jumbotron">
+  <h1>日本語Markdownユーザーのコミュニティです。</h1>
+  <p class="lead">Markdownに関する日常的なトピックから、Markdownの普及・啓蒙を通じた情報アクセシビリティ向上への取り組みまで、幅広い話題を取り扱います。</p>
+</div>
+
+<h2>サイトメニュー</h2>
+
+<ul class="nav nav-pills nav-stacked">
+  <li><a href="what-is-markdown">Markdownとは</a></li>
+  <li><a href="syntax">Markdown記法</a></li>
+  <li><a href="apps">アプリ</a></li>
+  <li><a href="organization">組織</a></li>
+</ul>
+
+<h2>コミュニティへの参加</h2>
+
+<div class="btn-group">
+	<a href="{{ site.googlegroup_link }}" class="btn btn-primary" onclick="_gaq.push(['_trackEvent', 'Jumbotron actions', 'Join', 'Join markdown-ja']);" target="_blank">Googleグループに参加する</a>
+	<a href="{{ site.trello_link }}" class="btn btn-default" onclick="_gaq.push(['_trackEvent', 'Jumbotron actions', 'Join', 'Join Trello']);" target="_blank">Trelloで活動計画を見る</a>
+</div>
