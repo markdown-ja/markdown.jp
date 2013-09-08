@@ -6944,17 +6944,14 @@ td.visible-print {
   }
 }
 
-body {
-  /* padding-top: 70px; if .navbar-fixed-top */
-
+.jumbotron h1 {
+  font-size: 28px;
 }
 
 .sidenav-heading {
   font-size: 16.8px;
 }
 
-/*
-  .sidenav-fixed {
-    position: fixed;
-  }
-*/
+.navbar-brand {
+  font-size: 16.8px;
+}
