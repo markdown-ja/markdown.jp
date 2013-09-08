@@ -1,7 +1,7 @@
 /**
-* Bootstrap v3.0.0 by @fat and @mdo
-* Copyright 2013 Twitter Inc.
-* Licensed under http://www.apache.org/licenses/LICENSE-2.0.
+* Bootstrap v0.0.0 by @fat and @mdo
+* Copyright 2013 Ishibashi Hideto
+* Licensed under http://creativecommons.org/licenses/by/3.0/.
 *
 * Designed and built with all the love in the world by @mdo and @fat.
 */
