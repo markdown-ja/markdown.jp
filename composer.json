@@ -1,20 +1,16 @@
 {
-    "name": "twbs/bootstrap"
-  , "description": "Sleek, intuitive, and powerful mobile first front-end framework for faster and easier web development."
+    "name": "markdown-ja/markdown.jp"
+  , "description": "日本語Markdownユーザーのコミュニティ、「日本語Markdownユーザー会」のウェブサイト"
   , "keywords": ["bootstrap", "css"]
-  , "homepage": "http://getbootstrap.com"
+  , "homepage": "http://markdown.jp"
   , "authors": [
       {
-        "name": "Mark Otto",
-        "email": "markdotto@gmail.com"
-      },
-      {
-        "name": "Jacob Thornton",
-        "email": "jacobthornton@gmail.com"
+        "name": "Ishibashi Hideto",
+        "email": "me@ishibashihideto.net"
       }
     ]
   , "support": {
-      "issues": "https://github.com/twbs/bootstrap/issues"
+      "issues": "https://github.com/markdown-ja/markdown.jp/issues"
     }
-  , "license": "Apache-2.0"
+  , "license": "CC BY 3.0"
 }
