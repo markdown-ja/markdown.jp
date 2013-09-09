@@ -19,20 +19,20 @@ Terminal を2つ開いて、`jekyll` と `grunt` を watch モードで走らせ
 
 ## 作者
 
-**石橋秀仁**
-
-+ [http://twitter.com/zerobase](http://twitter.com/zerobase)
-+ [http://github.com/zerobase](http://github.com/zerobase)
+- 石橋秀仁
+    - [http://ja.ishibashihideto.net](http://ja.ishibashihideto.net)
+    - [https://github.com/zerobase](https://github.com/zerobase)
 
 
 ## 著作権とライセンス
 
-このプロジェクトは [Bootstrap (twbs/bootstrap) の commit 1627905](https://github.com/twbs/bootstrap/commit/16279056ae1b3534f8c54b812492ce222dda6c8d) から派生しました。Bootstrap は Twitter, Inc によって Apache 2.0 ライセンスで提供されています。このプロジェクトも同ライセンスを引き継ぎます。
+このプロジェクトは [Bootstrap (twbs/bootstrap) の commit 1627905](https://github.com/twbs/bootstrap/commit/16279056ae1b3534f8c54b812492ce222dda6c8d) から派生しました。Bootstrap は Twitter, Inc によって Apache 2.0 ライセンスで提供されます。このプロジェクトも同ライセンスを引き継ぎます。
 
-markdown.jp 固有のコンテンツは、石橋秀仁が [CC BY 3.0](LICENSE) でライセンスします:
+markdown.jp 固有のコンテンツは、石橋秀仁によって [CC BY 3.0](LICENSE) でライセンスされます。
+
 
 ## Copyright and license
 
-This project is derived from [Bootstrap (twbs/bootstrap) commit 1627905](https://github.com/twbs/bootstrap/commit/16279056ae1b3534f8c54b812492ce222dda6c8d). Bootstrap is licensed under [the Apache 2.0 lisence](https://github.com/twbs/bootstrap/blob/master/LICENSE) by Twitter, Inc.
+This project is derived from [Bootstrap (twbs/bootstrap) commit 1627905](https://github.com/twbs/bootstrap/commit/16279056ae1b3534f8c54b812492ce222dda6c8d). Bootstrap is licensed under [the Apache 2.0 lisence](https://github.com/twbs/bootstrap/blob/master/LICENSE) by Twitter, Inc. This project inherits the same lisence.
 
 Additional copyright materials of markdown.jp are licensed under [CC BY 3.0](LICENSE) by Ishibashi Hideto.
