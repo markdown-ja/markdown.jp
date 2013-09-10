@@ -138,7 +138,7 @@ HTML
 
 > 彼*が*支払ったのではなく、彼*に*私が支払ったのです。
 
-`*` はHTMLの `<em>` タグに対応しており、ふつうは <span style="font-style: italic;">斜体</span> で表示されます。ですから日本語の文章では使いにくいかもしれません。
+`*` はHTMLの `<em>` タグに対応しており、ふつうは <span style="font-style: italic;">斜体</span> で表示されます。ですから日本語の文章では使いにくいかもしれません。 [^visual]
 
 さらに強い強調は、半角 `*` を片側2個ずつにします：
 
@@ -160,10 +160,17 @@ HTML
 
 `**` はHTMLの `<strong>` タグに対応しており、ふつうは <span style="font-style: bold; font-weight: 800;">太字</span> で表示されます。
 
-## 注意
+<div class="well well-lg">
+  <p class="lead">Markdown記法は簡単ですね！</p>
+</div>
 
-HTML出力例の見た目は、環境によって変わります。具体的には、HTMLに適用されるスタイルシート(CSS)や、ブラウザによって。ですから、このページとは異なる見た目になることもあります。
-
-その場合は、アプリの設定を変更することで、見た目を調節することができる場合があります。例えば、スタイルシートをカスタマイズするなど。
+<div class="btn-group">
+  <a href="{{ site.googlegroup_link }}" class="btn btn-primary btn-lg" onclick="_gaq.push(['_trackEvent', 'Next actions', 'From Syntax', 'Next markdown-ja']);" target="_blank">Googleグループ</a>
+  <a href="{{ site.trello_link }}" class="btn btn-info btn-lg" onclick="_gaq.push(['_trackEvent', 'Next actions', 'From Syntax', 'To Trello']);" target="_blank">活動計画</a>
+  <a href="/what-is-markdown/" class="btn btn-default btn-lg" onclick="_gaq.push(['_trackEvent', 'Next actions', 'From Syntax', 'Next What-is-markdown']);">Markdownとは</a>
+  <a href="/apps/" class="btn btn-default btn-lg" onclick="_gaq.push(['_trackEvent', 'Next actions', 'From Syntax', 'To Apps']);">アプリ</a>
+</div>
 
 [^foreign_apps]: 日本語の処理を考慮していないアプリ、とくに海外で開発されたアプリで顕著です。日本語Markdownユーザー会は、外国製アプリの日本語対応を推進します。
+
+[^visual]: 見た目のついての注意点です。HTML出力の見た目は、環境によって変わります。具体的には、HTMLに適用されるスタイルシート(CSS)や、ブラウザによって。ですから、このページとは異なる見た目になることもあります。

@@ -8,7 +8,7 @@ base_url: "../"
 
 ## Markdownの概要
 
-Markdown（マークダウン）は、*文章の書き方*です。デジタル文書を活用する方法として考案されました。特徴は、
+Markdown（マークダウン）は、**文章の書き方**です。デジタル文書を活用する方法として考案されました。特徴は、
 
 - 手軽に文章構造を明示できること
 - 簡単で、覚えやすいこと
@@ -23,7 +23,7 @@ Markdown（マークダウン）は、*文章の書き方*です。デジタル�
 
 以下の文章では、段落、強調、箇条書き、リンクが使われています：
 
-> Markdown（マークダウン）は、*文章の書き方*です。デジタル文書を活用する方法として考案されました。特徴は、
+> Markdown（マークダウン）は、**文章の書き方**です。デジタル文書を活用する方法として考案されました。特徴は、
 > 
 > - 手軽に文章構造を明示できること
 > - 簡単で、覚えやすいこと
@@ -36,7 +36,7 @@ Markdown（マークダウン）は、*文章の書き方*です。デジタル�
 
 上の文章は、次のようなMarkdown記法で書かれています：
 
-    Markdown（マークダウン）は、*文章の書き方*です。デジタル文書を活用する方法として考案されました。特徴は、
+    Markdown（マークダウン）は、**文章の書き方**です。デジタル文書を活用する方法として考案されました。特徴は、
 
     - 手軽に文章構造を明示できること
     - 簡単で、覚えやすいこと
@@ -54,7 +54,7 @@ Markdownの代表的なルールには：
 - 箇条書きは行頭に `- `
 - リンクは `[]` でリンクしたい文字を囲って、その直後の `()` の中にURLを書く
 
-などがあります。こういったルールの体系、つまり「文章の書き方」がMarkdownなのです。
+などがあります。Markdownとは、こういったルールの体系、つまり**文章の書き方**なのです。このようなルール（記法）に従うことで、私たちはMarkdown対応アプリの恩恵を
 
 ## Markdownのはじめかた
 
@@ -81,12 +81,23 @@ Markdownは、しばしばHTMLの代わりとして使われます。HTMLを書�
 
 HTMLを書くときには、`<p>` や `<li>` といった*HTMLタグ*をたくさん入力する必要があります。タグを打つことに注意が奪われてしまい、本来の文章作成に集中できません。ふだんの文章作成に気軽に使えるとは言いにくいですね。
 
-Markdownで書いたテキスト・ファイルは、簡単にHTMLに変換できます。そのためのアプリが多数あります。「HTMLに出力すること」は、Markdown活用のもっとも一般的な活用法です。それはつまり「ウェブ・ブラウザーで見られるウェブ・ページとして文章を公開すること」を意味しています。ですから、ウェブ・サイトに載せるコンテンツを書いたり、ブログを書いたりするときにMarkdownは使われています。
+MarkdownからHTMLに変換するのは簡単です。そのためのアプリが多数あります。「HTMLに出力すること」は、Markdownのもっとも一般的な活用法です。
 
 ## Markdownの広がり
 
-ブログを書いている人なら、お使いのブログのシステムがMarkdownに対応している可能性があります。大勢のブロガーが日々Markdownでブログを書いています。リンクを貼ったり、引用したり、文字を強調したりといった操作を、ブログの編集画面でやっていますか？　Markdownに慣れた人は、ブログの編集画面でそういう操作をしません。Markdownで書けば済むからです。
-
 Markdownを書くのに特別なソフトウェアは必要ありませんから、アイデア次第で様々な活用法が考えられます。
 
-次は、[Markdownアプリ](/apps/)を紹介します。
+例えば[Evernote](https://evernote.com/intl/jp/)は人気のノートアプリですが、Markdownに対応していません。それでもMarkdownでノートを書くのに支障はありません。HTMLに変換する必要があれば、Markdown対応アプリにコピー＆ペーストします。ブログやCMS（コンテンツ管理システム）がMarkdownに対応していれば、そのままコピー＆ペーストで投稿できます。
+
+今日も大勢のブロガーがMarkdownでブログを書いています。大勢の企業ウェブ担当者がMarkdownでコンテンツを書いています。大勢の人々がMarkdownで日常的なメモを書いています。
+
+<div class="well well-lg">
+  <p class="lead">Markdownの世界へようこそ！</p>
+</div>
+
+<div class="btn-group">
+  <a href="{{ site.googlegroup_link }}" class="btn btn-primary btn-lg" onclick="_gaq.push(['_trackEvent', 'Next actions', 'From What-is-markdown', 'To markdown-ja']);" target="_blank">Googleグループ</a>
+  <a href="{{ site.trello_link }}" class="btn btn-info btn-lg" onclick="_gaq.push(['_trackEvent', 'Next actions', 'From What-is-markdown', 'To Trello']);" target="_blank">活動計画</a>
+  <a href="/syntax/" class="btn btn-default btn-lg" onclick="_gaq.push(['_trackEvent', 'Next actions', 'From What-is-markdown', 'To Syntax']);">Markdown記法</a>
+  <a href="/apps/" class="btn btn-default btn-lg" onclick="_gaq.push(['_trackEvent', 'Next actions', 'From What-is-markdown', 'To Apps']);">アプリ</a>
+</div>
