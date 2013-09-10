@@ -10,6 +10,6 @@ base_url: "../"
 
 ## Byword
 
-[Byword](https://itunes.apple.com/jp/app/byword/id420212497?mt=12)はシンプルで美しいデザインのMacアプリです。[iPad版・iPhone版]()もあります。
+[Byword](https://itunes.apple.com/jp/app/byword/id420212497?mt=12)はシンプルで美しいデザインのMacアプリです。[iPad版・iPhone版](https://itunes.apple.com/jp/app/byword/id482063361?mt=8)もあります。
 
 <img src="/assets/img/apps/byword/byword_mac_01.png" alt="" class="img-responsive">

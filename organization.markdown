@@ -20,7 +20,7 @@ NPO法人化の暁には、石橋秀仁個人からNPO法人へ諸々の権利�
 
 - [石橋秀仁](http://ja.ishibashihideto.net/)（代表・発起人）
 
-運営メンバーを募集しています。仕事内容は、このサイト (http://markdown.jp/) の運営や、イベントの企画・運営などです。ご興味のある方は、お気軽に[石橋][ishibashi-mail]までご連絡ください。
+運営メンバーを募集しています。仕事内容は、このサイト (http://markdown.jp/) の運営や、イベントの企画・運営などです。ご興味のある方は、お気軽にご連絡ください。
 
 ## アクセス
 
@@ -30,7 +30,8 @@ NPO法人化の暁には、石橋秀仁個人からNPO法人へ諸々の権利�
 電話
 : 03-5312-5594
 
+メール
+: [info@markdown.jp](mailto:info@markdown.jp)
+
 担当
 : 石橋秀仁
-
-[ishibashi-mail]: mailto:me@ishibashihideto.net
