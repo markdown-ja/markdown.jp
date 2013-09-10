@@ -1,12 +1,14 @@
-<nav class="nav" role="navigation">
-  <h2 class="sidenav-heading">ページメニュー</h2>
-  {% if page.slug == "what-is-markdown" %}
-    {% include sidenav/what-is-markdown.html %}
-  {% elsif page.slug == "syntax" %}
-   {% include sidenav/syntax.html %}
-  {% elsif page.slug == "organization" %}
-   {% include sidenav/organization.html %}
-  {% elsif page.slug == "apps" %}
-    {% include sidenav/apps.html %}
-  {% endif %}
+<nav class="nav panel panel-default" role="navigation">
+  <div class="sidenav-heading panel-heading">ページメニュー</div>
+  <div class="panel-body">
+    {% if page.slug == "what-is-markdown" %}
+      {% include sidenav/what-is-markdown.html %}
+    {% elsif page.slug == "syntax" %}
+     {% include sidenav/syntax.html %}
+    {% elsif page.slug == "organization" %}
+     {% include sidenav/organization.html %}
+    {% elsif page.slug == "apps" %}
+      {% include sidenav/apps.html %}
+    {% endif %}
+  </div>
 </nav>
