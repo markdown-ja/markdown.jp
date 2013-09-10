@@ -6944,3 +6944,9 @@ td.visible-print {
 .navbar-brand {
   font-size: 16.8px;
 }
+
+.footnotes {
+  padding-top: 28px;
+  margin-top: 28px;
+  border-top: 1px solid #333333;
+}
