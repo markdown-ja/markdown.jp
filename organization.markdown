@@ -16,6 +16,10 @@ base_url: "../"
 
 NPO法人化の暁には、石橋秀仁個人からNPO法人へ諸々の権利を譲渡する予定です。
 
+## 会員制度
+
+未整備です。ひとまず[Googleグループ](https://groups.google.com/d/forum/markdown-ja)にご参加ください。
+
 ## 運営メンバー
 
 - [石橋秀仁](http://ja.ishibashihideto.net/)（代表・発起人）
