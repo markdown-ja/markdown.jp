@@ -148,7 +148,7 @@ module.exports = function(grunt) {
       },
       recess: {
         files: 'less/*.less',
-        tasks: ['recess']
+        tasks: ['recess', 'jekyll']
       },
       jekyll: {
         files: ['*.html', '*.markdown', '_layouts/**/*', '_includes/**/*'],
