@@ -117,14 +117,15 @@ module.exports = function(grunt) {
     connect: {
       server: {
         options: {
-          port: 3000,
-          base: '.'
+          port: 9090,
+          base: '_gh_pages'
         }
       }
     },
 
     jekyll: {
-      docs: {}
+      src: '.',
+      dest: '_gh_pages'
     },
 
     validation: {
@@ -148,6 +149,10 @@ module.exports = function(grunt) {
       recess: {
         files: 'less/*.less',
         tasks: ['recess']
+      },
+      jekyll: {
+        files: ['*.html', '*.markdown', '_layouts/**/*', '_includes/**/*'],
+        tasks: ['jekyll']
       }
     }
   });
@@ -194,6 +199,6 @@ module.exports = function(grunt) {
   grunt.registerTask('dist', ['clean', 'dist-css', 'dist-fonts', 'dist-js']);
 
   // Default task.
-  grunt.registerTask('default', ['test', 'dist']);
+  grunt.registerTask('default', ['connect', 'watch']);
 
 };
