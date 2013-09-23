@@ -32,8 +32,8 @@ Not yet defined. For now, [google group](https://groups.google.com/d/forum/markd
 Address
 : c/o Zerobase, Akiba Bldg. 301, Shinjuku 2-15-1, Shinjuku-ku, Tokyo, Japan, 160-0022
 
-電話
+Phone
 : +81-3-5312-5594
 
-メール
+Email
 : [info@markdown.jp](mailto:info@markdown.jp)
