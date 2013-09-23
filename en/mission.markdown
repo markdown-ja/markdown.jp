@@ -41,6 +41,7 @@ This is why I commit to Markdown. By the way, community members, feel free to ta
 If you are interested in, please join us.
 
 Ishibashi Hideto
+
 September 3, 2013
 
 [Ishibashi Hideto]: http://ishibashihideto.net
