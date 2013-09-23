@@ -4,10 +4,15 @@
 <meta name="author" content="Japanese Markdown User Group">
 
 <title>
-  {% if page.title == site.name %}
+  {% if page.lang == 'en' %}
+    {% assign sitename = 'Japanese Markdown User Group' %}
+  {% else %}
+    {% assign sitename = '日本語Markdownユーザー会' %}
+  {% endif %}
+  {% if page.title == sitename %}
     {{ page.title }}
   {% else %}
-    {{ page.title }} &middot; {{ site.name }}
+    {{ page.title }} &middot; {{ sitename }}
   {% endif %}
 </title>
 

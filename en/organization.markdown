@@ -1,5 +1,6 @@
 ---
 layout: home.en
+lang: en
 slug: organization
 title: Organizaiton
 desc: "About Japanese Markdown User Group"
@@ -8,15 +9,15 @@ base_url: "../../"
 
 ## Foundation
 
-Japanese Markdown User Group is founded on Sep 3, 2013.
+The Japanese Markdown User Group is founded on Sep 3, 2013.
 
 ## Form of Organization
 
-Japanese Markdown User Group is not incorporated yet. At this time, the President, Ishibashi Hideto, is responsible for group activities of Japanese Markdown User Group, except activities out of his management.
+The Japanese Markdown User Group is not incorporated yet. At this time, the President, Ishibashi Hideto, is responsible for group activities of the Japanese Markdown User Group, except activities out of his management.
 
-Copyright materials also belongs to Ishibashi Hideto.
+Copyright materials also belong to Ishibashi Hideto.
 
-After incorporation, every rights and liabilities are transfered to the legal entity.
+After incorporation, every right and liabilities are transferred to the legal entity.
 
 ## Membership
 

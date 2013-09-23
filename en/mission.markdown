@@ -1,5 +1,6 @@
 ---
 layout: home.en
+lang: en
 slug: mission
 title: Mission
 desc: "Foundation Statement of Japanese Markdown User Group"
@@ -23,7 +24,7 @@ By the way, let me explain "why Markdown is so important".
 
 Nowadays, **Open Government and Open Data** movements are growing globally. They are making effort to reveal, share and use *structured data* from governments.
 
-On the other hands, improving accessibility of *documents* from governments is important, too.
+On the other hands, improving accessibility of *documents* from governments is also important.
 
 **Accessibility** is the intrinsic value of the Web. Accessibility is a wider concept than Open Data. Each concept is for realizing Open Government. But I cannot see as much progress in improving document accessibility as improving open data. This gap is on my mind.
 
