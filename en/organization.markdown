@@ -20,7 +20,7 @@ After incorporation, every rights and liabilities are transfered to the legal en
 
 ## Membership
 
-Not yet defined. For now, [Google group](https://groups.google.com/d/forum/markdown-ja) membership is equal to Japanese Markdown User Group membership.
+Not yet defined. For now, [google group](https://groups.google.com/d/forum/markdown-ja) membership is equal to Japanese Markdown User Group membership.
 
 ## Staff
 
