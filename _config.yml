@@ -7,7 +7,7 @@ permalink:        pretty
 
 # Server
 destination:      ./_gh_pages
-exclude:          [".editorconfig", ".gitignore", ".ruby-version", "bower.json", "composer.json", "CNAME", "Gruntfile.js", "LICENSE", "package.json", "node_modules", "README.md", "less"]
+exclude:          [".editorconfig", ".gitignore", ".ruby-version", "bower.json", "composer.json", "CNAME", "Gruntfile.js", "LICENSE", "package.json", "node_modules", "README.md", "less", "validation-report.json", "validation-status.json", "browserstack.json"]
 port:             9090
 
 # Custom vars - markdown.jp

@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="ja">
+  <head>
+    {% include header.html %}
+  </head>
+  <body>
+    <a class="sr-only" href="#content">Skip navigation</a>
+
+    {% include nav-main.en.html %}
+
+    <main class="container" id="content" role="main">
+      {{ content }}
+    </main>
+
+    {% include footer.en.html %}
+
+  </body>
+</html>

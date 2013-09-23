@@ -36,6 +36,3 @@ NPO法人化の暁には、石橋秀仁個人からNPO法人へ諸々の権利�
 
 メール
 : [info@markdown.jp](mailto:info@markdown.jp)
-
-担当
-: 石橋秀仁
