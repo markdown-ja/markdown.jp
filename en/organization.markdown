@@ -36,4 +36,4 @@ Phone
 : +81-3-5312-5594
 
 Email
-: [info@markdown.jp](mailto:info@markdown.jp)
+: <hidetoi@gmail.com>

@@ -35,4 +35,4 @@ NPO法人化の暁には、石橋秀仁個人からNPO法人へ諸々の権利�
 : 03-5312-5594
 
 メール
-: [info@markdown.jp](mailto:info@markdown.jp)
+: <hidetoi@gmail.com>
